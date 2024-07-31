@@ -2,7 +2,7 @@
 using namespace std;
 int main()
     {
-        float p ;
+        float p;
         cout<< "please enter first value: " <<endl;
         cin>> p;
         
